@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/niujh/games202/hw5/build",
+  "command": "/usr/bin/g++   -I/home/niujh/games202/hw5/src -I/home/niujh/games202/hw5/src/ext   -fopenmp -g   -std=gnu++17 -o CMakeFiles/Denoise.dir/src/denoiser.cpp.o -c /home/niujh/games202/hw5/src/denoiser.cpp",
+  "file": "/home/niujh/games202/hw5/src/denoiser.cpp"
+},
+{
+  "directory": "/home/niujh/games202/hw5/build",
+  "command": "/usr/bin/g++   -I/home/niujh/games202/hw5/src -I/home/niujh/games202/hw5/src/ext   -fopenmp -g   -std=gnu++17 -o CMakeFiles/Denoise.dir/src/main.cpp.o -c /home/niujh/games202/hw5/src/main.cpp",
+  "file": "/home/niujh/games202/hw5/src/main.cpp"
+},
+{
+  "directory": "/home/niujh/games202/hw5/build",
+  "command": "/usr/bin/g++   -I/home/niujh/games202/hw5/src -I/home/niujh/games202/hw5/src/ext   -fopenmp -g   -std=gnu++17 -o CMakeFiles/Denoise.dir/src/util/image.cpp.o -c /home/niujh/games202/hw5/src/util/image.cpp",
+  "file": "/home/niujh/games202/hw5/src/util/image.cpp"
+},
+{
+  "directory": "/home/niujh/games202/hw5/build",
+  "command": "/usr/bin/g++   -I/home/niujh/games202/hw5/src -I/home/niujh/games202/hw5/src/ext   -fopenmp -g   -std=gnu++17 -o CMakeFiles/Denoise.dir/src/util/imageutil.cpp.o -c /home/niujh/games202/hw5/src/util/imageutil.cpp",
+  "file": "/home/niujh/games202/hw5/src/util/imageutil.cpp"
+},
+{
+  "directory": "/home/niujh/games202/hw5/build",
+  "command": "/usr/bin/g++   -I/home/niujh/games202/hw5/src -I/home/niujh/games202/hw5/src/ext   -fopenmp -g   -std=gnu++17 -o CMakeFiles/Denoise.dir/src/util/mathutil.cpp.o -c /home/niujh/games202/hw5/src/util/mathutil.cpp",
+  "file": "/home/niujh/games202/hw5/src/util/mathutil.cpp"
+}
+]

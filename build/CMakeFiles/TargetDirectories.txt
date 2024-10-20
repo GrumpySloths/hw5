@@ -1,0 +1,3 @@
+/home/niujh/games202/hw5/build/CMakeFiles/rebuild_cache.dir
+/home/niujh/games202/hw5/build/CMakeFiles/edit_cache.dir
+/home/niujh/games202/hw5/build/CMakeFiles/Denoise.dir
